@@ -93,8 +93,7 @@ Make sure Java is installed on your system. Then:
 bash
 `javac SnakeLadderGame.java
  java SnakeLadderGame`
-
-##👨‍💻 Author
-Vighnesh Shinde
+## 👨‍💻 Author
+## Vighnesh Shinde
 A passionate Java developer and game logic designer.
 This project was created as part of a programming practice session to understand basic game logic, condition checking, and Java OOP concepts.
